@@ -1,3 +1,9 @@
+const http = require("http")
+
+http.createServer((req,res)=>{
+res.end("bot calisiyor")
+}).listen(3000)
+
 const mineflayer = require('mineflayer')
 
 const SERVER_IP = "oyna.blokya.com"
