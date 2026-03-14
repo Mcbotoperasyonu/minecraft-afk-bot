@@ -1,0 +1,8 @@
+{
+  "name": "minecraft-afk-bots",
+  "version": "1.21.4",
+  "main": "bot.js",
+  "dependencies": {
+    "mineflayer": "^4.14.0"
+  }
+}
